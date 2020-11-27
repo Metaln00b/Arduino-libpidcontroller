@@ -1,0 +1,15 @@
+{
+  "name": "Arduino-libpidcontroller",
+  "keywords": "p, i, d, pi, pid, controller",
+  "description": "PID controller for Arduino IDE",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Metaln00b/Arduino-libpidcontroller.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
